@@ -5,4 +5,4 @@ I'm Junho, a software engineer who loves coding and traveling.
 
 
 ![Junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunhoYoon95&show_icons=true&theme=dark&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JunhoYoon95&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JunhoYoon95&repo=github-readme-stats)](https://github.com/JunhoYoon95/github-readme-stats)
