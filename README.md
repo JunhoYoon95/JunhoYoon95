@@ -3,6 +3,12 @@
 I'm Junho, a software engineer with a passion for coding and traveling.
 - How to reach me: enffl95@icloud.com
 
+<span>
+  <a href="mailto:enffl95@icloud.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
+
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=compact&theme=nord&hide_border=true" /></a> 
 
