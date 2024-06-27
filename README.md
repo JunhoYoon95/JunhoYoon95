@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Junho, a software engineer with a passion for coding and traveling.
+I'm Junho, a software engineer with a passion for coding and traveling.\
+
 <a href="mailto:enffl95@icloud.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=enffl95@icloud.com"/></a>
 
 
