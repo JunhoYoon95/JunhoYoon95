@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Junho, a software engineer who loves coding and traveling.
+I'm Junho, a software engineer with a passion for coding and traveling.
 - How to reach me: enffl95@icloud.com
 
 
