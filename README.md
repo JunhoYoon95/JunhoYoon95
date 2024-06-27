@@ -2,17 +2,6 @@
 
 I'm Junho, a software engineer with a passion for coding and traveling.
 
-  <a href="mailto:enffl95@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://kyurasi.tistory.com/">
-    <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/junho-yoon-junmannn-kyurasi/">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=plastic&logo=Linkedin&logoColor=white"/>
-  </a>
-
-
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ## Stacks
