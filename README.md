@@ -22,3 +22,5 @@ I'm Junho, a software engineer who loves coding and traveling.
 ![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-B5314C?style=for-the-badge&logo=angular&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-F07A5B?style=for-the-badge&logo=firebase&logoColor=white)
