@@ -3,8 +3,8 @@
 I'm Junho, a software engineer with a passion for coding and traveling.
 
 <a href="mailto:enffl95@icloud.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=enffl95@icloud.com"/></a>
-<a href="https://kyurasi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/junho-yoon-junmannn-kyurasi/"><img src="https://img.shields.io/badge/Linkedin-d14836?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://kyurasi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/junho-yoon-junmannn-kyurasi/"><img src="https://img.shields.io/badge/Linkedin-#A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=compact&theme=nord&hide_border=true" /></a> 
