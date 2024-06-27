@@ -13,6 +13,11 @@ I'm Junho, a software engineer with a passion for coding and traveling.
     <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white"/>
   </a>
 </span>
+<span>
+  <a href="https://www.linkedin.com/in/junho-yoon-junmannn-kyurasi/">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=plastic&logo=Linkedin&logoColor=white"/>
+  </a>
+</span>
 
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=compact&theme=nord&hide_border=true" /></a> 
