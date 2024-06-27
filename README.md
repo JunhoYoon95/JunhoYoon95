@@ -14,6 +14,7 @@ I'm Junho, a software engineer with a passion for coding and traveling.
 
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://kyurasi.tistory.com/"><img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white"/></a>
 
 ## Stacks
 ![Rails](https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
