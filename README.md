@@ -7,7 +7,8 @@ I'm Junho, a software engineer with a passion for coding and traveling.
 <a href="https://www.linkedin.com/in/junho-yoon-junmannn-kyurasi/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 
-<a href="https://github.com/JunhoYoon95"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=compact&theme=nord&hide_border=true" /></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunhoYoon95&layout=donut)](https://github.com/JunhoYoon95/github-readme-stats)
+
 
 ## 🧰 Tech Stacks
 
