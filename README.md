@@ -13,15 +13,15 @@ I'm Junho, a software engineer with a passion for coding and traveling.
 ## 🧰 Tech Stacks
 
 ### 🚀 Frameworks / Libraries
-![Rails](https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-B5314C?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-B5314C?style=for-the-badge&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### ☁️ Infrastructure / Deployment
@@ -33,9 +33,9 @@ I'm Junho, a software engineer with a passion for coding and traveling.
 ![Amazon Route 53](https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
 
 ### 🗄️ Database / Backend as a Service
+![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-F07A5B?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🎨 UI / CSS Frameworks
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
